@@ -1,0 +1,1 @@
+# Simulating-the-2026-FIFA-World-Cup-with-Regularized-XGBoost
